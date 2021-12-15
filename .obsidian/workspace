@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "e9e593fc5ed925c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "aebaf12503dde371",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1 User role/Verified advocate.md",
+            "mode": "source"
+          }
+        },
+        "group": "ebec4d981a75456b"
+      },
+      {
+        "id": "92f9979fcf2d498d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1 User role/Verified advocate.md",
+            "mode": "preview"
+          }
+        },
+        "group": "ebec4d981a75456b"
+      },
+      {
+        "id": "2bf409f2f8c47676",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83ca70801d1ac7e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc52fa4307f59932",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4df81ec5d7442df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7402360098570880",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "66b10814fbf888b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "36b5ca1b75c38ca9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9f1e91b81d3fc0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2bf409f2f8c47676",
+  "lastOpenFiles": [
+    "1 User role/Advocate user campaign.md",
+    "1 User role/Verified advocate.md",
+    "1 User role/Organization user.md",
+    "1 User role/Supporter.md",
+    "US/14205 New Organization Verification Process with Stripe Identity and GuideStar.md",
+    "US/16373 Start Guide Redesign.md",
+    "Untitled.md",
+    "1 main description.md",
+    "US/13717 Organization and Advocate Onboarding Process Improvements on Start Page.md",
+    "RV1.md"
+  ]
+}
