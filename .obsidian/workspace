@@ -4,36 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "aebaf12503dde371",
+        "id": "71655035157b44cc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1 User role/Verified advocate.md",
+            "file": "1 User role/Supporter.md",
             "mode": "source"
           }
         },
-        "group": "ebec4d981a75456b"
+        "group": "a035107bbbf80d3c"
       },
       {
-        "id": "92f9979fcf2d498d",
+        "id": "890cd595d3d2715d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1 User role/Verified advocate.md",
+            "file": "1 User role/Supporter.md",
             "mode": "preview"
           }
         },
-        "group": "ebec4d981a75456b"
-      },
-      {
-        "id": "2bf409f2f8c47676",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
+        "group": "a035107bbbf80d3c"
       }
     ],
     "direction": "vertical"
@@ -89,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 User role/Supporter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2bf409f2f8c47676",
+  "active": "71655035157b44cc",
   "lastOpenFiles": [
-    "1 User role/Advocate user campaign.md",
-    "1 User role/Verified advocate.md",
-    "1 User role/Organization user.md",
     "1 User role/Supporter.md",
-    "US/14205 New Organization Verification Process with Stripe Identity and GuideStar.md",
+    "US/15775 On-page checkout.md",
+    "US/15819 Start Page Redesign 2021.md",
     "US/16373 Start Guide Redesign.md",
-    "Untitled.md",
+    "1 User role/Organization user.md",
+    "1 User role/Verified advocate.md",
+    "1 User role/Advocate user campaign.md",
     "1 main description.md",
-    "US/13717 Organization and Advocate Onboarding Process Improvements on Start Page.md",
-    "RV1.md"
+    "US/14205 New Organization Verification Process with Stripe Identity and GuideStar.md",
+    "Untitled.md"
   ]
 }

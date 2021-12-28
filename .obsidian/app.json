@@ -1,4 +1,11 @@
 {
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": false,
+  "foldHeading": false,
+  "showFrontmatter": false,
+  "defaultViewMode": "source",
+  "lineWrap": true,
+  "legacyEditor": true,
+  "livePreview": false
 }
