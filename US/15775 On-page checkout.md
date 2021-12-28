@@ -2,7 +2,7 @@
 
 ## Cart
 
-a. The Cart is logically the same in this new Checkout process and we haven’t made any significant changes to it. Users will add items to their Cart in the same way as they do now, and the items will display in the same way inside the cart (including the [image, title, and price](https://share.getcloudapp.com/12uAoj6W)).
+a. The Cart is logically the same in this new Checkout process and we haven’t made any significant changes to it. Users will add items to their Cart in the same way as they do now, and the items will display in the same way inside the cart (including the [image, title, and price](https://share.getcloudapp.com/12uAoj6W)). ^cdb0d8
 
 b. [**See Cart Figma**](https://www.figma.com/file/eD6wze2YSaYCN0CclY7Liu/Virtual-Experiences-Essential-Documentation?node-id=4418%3A252049)
 
@@ -96,7 +96,7 @@ f. [Flat Donation Pop-Up](https://www.figma.com/file/eD6wze2YSaYCN0CclY7Liu/Virt
 
 g. The new Checkout is comprised of these possible sections:
 
- i. **Your Information**: this section contains exactly the same cards and fields as our current Your Information section, so the logic for when we show fields and how they work (like the Auction Bid Lookup cards) should work exactly the same as they do now.
+ i. **Your Information**: this section contains exactly the same cards and fields as our current Your Information section, so the logic for when we show fields and how they work (like the Auction Bid Lookup cards) should work exactly the same as they do now. ^e74d3e
 
 - The only **new card** in this section is that we’ve also moved our [existing “Select Members/Teams” step](https://share.getcloudapp.com/yAuDDZq6) to Your Information as well, so we no longer have a need for a separate step for that: [see screenshot](https://share.getcloudapp.com/llu55nLz).
 
