@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "890cd595d3d2715d",
+        "id": "9f5996c9bc9d93b0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1 User role/Supporter.md",
+            "file": "Global Admin/Campaign management table.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "e752a34d69f94119",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "US/15775 On-page checkout.md",
-            "mode": "preview"
           }
         }
       }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 User role/Supporter.md",
+                "file": "Global Admin/Campaign management table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,20 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "890cd595d3d2715d",
+  "active": "9f5996c9bc9d93b0",
   "lastOpenFiles": [
+    "Global Admin/Campaign management table.md",
+    "1 User role/Verified advocate.md",
+    "1 User role/Global Admin.md",
+    "1 main description.md",
+    "US/16373 Start Guide Redesign.md",
+    "1 User role/Advocate user campaign.md",
+    "1 User role/Organization user.md",
     "1 User role/Supporter.md",
     "US/15775 On-page checkout.md",
-    "1 User role/Verified advocate.md",
-    "1 User role/Organization user.md",
-    "1 User role/Advocate user campaign.md",
-    "US/15819 Start Page Redesign 2021.md",
-    "US/16373 Start Guide Redesign.md",
-    "1 main description.md",
-    "US/14205 New Organization Verification Process with Stripe Identity and GuideStar.md",
-    "Untitled.md"
+    "US/15819 Start Page Redesign 2021.md"
   ]
 }
