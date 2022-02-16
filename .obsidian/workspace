@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Global Admin/Export Donation.md",
+            "file": "Global Admin/Partner management.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Admin/Export Donation.md",
+                "file": "Global Admin/Partner management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "9f5996c9bc9d93b0",
   "lastOpenFiles": [
+    "Global Admin/Partner management.md",
+    "Global Admin/Import Organization (не заполнено).md",
+    "Global Admin/Fund Request.md",
+    "Global Admin/Administrators.md",
+    "Global Admin/Organization Management.md",
     "Global Admin/Export Donation.md",
     "Global Admin/Import Donations.md",
-    "Global Admin/Organization Management.md",
     "Global Admin/Transactions.md",
     "Global Admin/Affiliate Payments.md",
-    "Global Admin/Affiliates.md",
-    "Global Admin/Referrals.md",
-    "Global Admin/Fund Request.md",
-    "Global Admin/Campaign management table.md",
-    "1 User role/Verified advocate.md"
+    "Global Admin/Affiliates.md"
   ]
 }
