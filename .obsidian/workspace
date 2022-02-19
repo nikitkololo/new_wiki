@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PLF or Partner Level-Funding.md",
+            "file": "COL or Custom Organization list.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PLF or Partner Level-Funding.md",
+                "file": "COL or Custom Organization list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
   },
   "active": "9f5996c9bc9d93b0",
   "lastOpenFiles": [
+    "COL or Custom Organization list.md",
     "PLF or Partner Level-Funding.md",
     "Global Admin/Partner management.md",
     "Global Admin/Import Organization (не заполнено).md",
@@ -95,7 +96,6 @@
     "Global Admin/Organization Management.md",
     "Global Admin/Export Donation.md",
     "Global Admin/Import Donations.md",
-    "Global Admin/Transactions.md",
-    "Global Admin/Affiliate Payments.md"
+    "Global Admin/Transactions.md"
   ]
 }
