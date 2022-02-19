@@ -2,10 +2,10 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "spellcheck": false,
-  "foldHeading": false,
+  "foldHeading": true,
   "showFrontmatter": false,
   "defaultViewMode": "source",
   "lineWrap": true,
   "legacyEditor": true,
-  "livePreview": false
+  "livePreview": true
 }

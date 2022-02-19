@@ -1,6 +1,6 @@
 # Supporter
 Supporter is able to:
-- Donate (check, card, apple pay), make reccuring donation
+- [[#Donate]]
 - Edit bids
 - Use promocodes
 - Donate on donation page
@@ -20,7 +20,7 @@ User should add all items and donations to cart. Requirements for cart are [[157
 ### On-page checkout
 #### Your information section
 On this section should contain same cards and fields.
- - Requirements of Your Information section[[15775 On-page checkout#^e74d3e]]
+ - Requirements of Your Information section [[15775 On-page checkout#^e74d3e]]
  - Improves:
      - [[15775 On-page checkout#16915 15775 IMPROVE Update markup on Your Information section to new Figmas]]
      - [[15775 On-page checkout#16933 15775 IMPROVE Remove Create Account and Login buttons from Your Information section]]
